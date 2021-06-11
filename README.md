@@ -1,5 +1,5 @@
 # Web Resume
-Last updated Early 2020
+Last updated 2021
 
 <!-- LICENSE -->
 ## License
